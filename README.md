@@ -1,2 +1,2 @@
 # Bollinger-Buy
-Trade recommendations for BOVESPA stocks based on Bollinger Bands and Volume
+Trade recommendations on stocks based on Bollinger Bands and Volume
